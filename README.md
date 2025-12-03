@@ -1,25 +1,25 @@
-# Sucesos Aeronáuticos en Argentina – MongoDB & Data Cleaning
+# Aeronautical Incidents in Argentina – MongoDB & Data Cleaning
 
-Este proyecto analiza accidentes aeronáuticos en Argentina utilizando **MongoDB** para importar, limpiar y consultar datos provenientes de Kaggle.
+This project analyzes aeronautical accidents in Argentina using **MongoDB** to import, clean, and query data sourced from Kaggle.
 
-## 🚀 Objetivos
-- Normalizar datos importados desde CSV (fechas, coordenadas, valores faltantes).
-- Realizar consultas para identificar patrones:
-  - Provincias con mayor concentración de accidentes.
-  - Modelos y fabricantes más involucrados.
-  - Estacionalidad de los sucesos.
+## 🚀 Objectives
+- Normalize data imported from CSV (dates, coordinates, missing values).
+- Perform queries to identify patterns:
+  - Provinces with the highest concentration of accidents.
+  - Most frequent aircraft models and manufacturers involved.
+  - Seasonality of incidents.
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 - MongoDB Compass & Shell
 - Kaggle datasets
 - Tableau
 
-## 📊 Resultados destacados
-- Buenos Aires concentra la mayor cantidad de accidentes.
-- El modelo **PA-11 (Piper)** es el más recurrente.
-- La mayoría de accidentes ocurren en **verano** (hemisferio sur).
+## 📊 Key Findings
+- Buenos Aires has the highest number of accidents.
+- The **PA-11 (Piper)** model is the most recurrent.
+- Most accidents occur in **summer** (southern hemisphere).
 
-## 📎 Recursos
-- [Notebook en Kaggle](https://www.kaggle.com/code/dayronrodrguez/analysis-of-aeronautical-events)
+## 📎 Resources
+- [Notebook on Kaggle](https://www.kaggle.com/code/dayronrodrguez/analysis-of-aeronautical-events)
 
 ---

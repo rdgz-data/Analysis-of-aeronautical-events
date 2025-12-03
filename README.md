@@ -18,8 +18,4 @@ This project analyzes aeronautical accidents in Argentina using **MongoDB** to i
 - Buenos Aires has the highest number of accidents.
 - The **PA-11 (Piper)** model is the most recurrent.
 - Most accidents occur in **summer** (southern hemisphere).
-
-## 📎 Resources
-- [Notebook on Kaggle](https://www.kaggle.com/code/dayronrodrguez/analysis-of-aeronautical-events)
-
 ---

@@ -11,8 +11,8 @@ Este proyecto analiza accidentes aeronáuticos en Argentina utilizando **MongoDB
 
 ## 🛠️ Tecnologías
 - MongoDB Compass & Shell
-- Python
 - Kaggle datasets
+- Tableau
 
 ## 📊 Resultados destacados
 - Buenos Aires concentra la mayor cantidad de accidentes.
@@ -20,7 +20,6 @@ Este proyecto analiza accidentes aeronáuticos en Argentina utilizando **MongoDB
 - La mayoría de accidentes ocurren en **verano** (hemisferio sur).
 
 ## 📎 Recursos
-- [Notebook en Kaggle](https://www.kaggle.com/tu_usuario/tu_proyecto)
-- [Informe completo en PDF](docs/DayronRodriguezDiaz_NoSQL.pdf)
+- [Notebook en Kaggle](https://www.kaggle.com/dayronrodrguez/Analysis-of-aeronautical-events)
 
 ---

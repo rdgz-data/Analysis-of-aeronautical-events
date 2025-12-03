@@ -20,6 +20,6 @@ Este proyecto analiza accidentes aeronáuticos en Argentina utilizando **MongoDB
 - La mayoría de accidentes ocurren en **verano** (hemisferio sur).
 
 ## 📎 Recursos
-- [Notebook en Kaggle](https://www.kaggle.com/dayronrodrguez/Analysis-of-aeronautical-events)
+- [Notebook en Kaggle](https://www.kaggle.com/code/dayronrodrguez/analysis-of-aeronautical-events)
 
 ---

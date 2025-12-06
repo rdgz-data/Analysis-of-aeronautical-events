@@ -46,8 +46,3 @@ Este proyecto analiza accidentes aeronáuticos en Argentina usando **MongoDB** p
 
 ## Visualización
 [![Ver Dashboard en Tableau](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/dayron.rodriguez.diaz/viz/Aviones_17649553397620/Dashboard1)
-
-
-
-
-
